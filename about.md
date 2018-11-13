@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Working on [Medical Imaging Components](https://www.dkfz.de/en/mic/research/MICO/mico_projects.html) at the (German Cancer Research Center](https://www.dkfz.de) 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Get in touch](https://www.dkfz.de/en/mic/team/people/Marco_Nolden.html)
